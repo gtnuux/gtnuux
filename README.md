@@ -1,4 +1,4 @@
-# Explain the username
-* Look at my logo.
+## Why gtnuux??
+* Look at the logo.
 * The username gnutux was already taken.
-* Execute the following perl: join('', map({/(.).(.).(.)/, ' and ', /.(.).(.).(.)/} 'gtnuux'));
+* Execute the following perl: `join('', map({/(.).(.).(.)/, ' and ', /.(.).(.).(.)/} 'gtnuux'))`
